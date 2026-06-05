@@ -2,12 +2,12 @@ import "./Hero.css";
 import people from "../../assets/Images/peoples.png";
 import vector from "../../assets/Images/Vector.png";
 import ellipse from "../../assets/Images/Ellipse.png";
-import line from "../../assets/Images/Line1.png";
-import line2 from "../../assets/Images/Line2.png";
+import line1 from "../../assets/Images/line1.png";
+import line2 from "../../assets/Images/line2.png";
 const Hero = () => {
   return (
       <section className="hero">
-          <img src={line} alt="" className="line1" />
+          <img src={line1} alt="" className="line1" />
           <img src={line2} alt="" className="line2" />
 
         <div className="hero-top">
