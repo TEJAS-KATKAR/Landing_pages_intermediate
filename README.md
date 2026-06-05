@@ -37,7 +37,7 @@ https://landing-page1016.vercel.app/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/TEJAS-KATKAR/Landing_pages_intermediate.git
 ```
 
 ## Deployment
