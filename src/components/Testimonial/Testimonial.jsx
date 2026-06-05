@@ -1,5 +1,5 @@
 import "./Testimonial.css";
-import vector from "../../assets/Images/vector.png";
+import vector from "../../assets/Images/Vector.png";
 const images = import.meta.glob("../../assets/Peoples/*.png", {
   eager: true,
 });

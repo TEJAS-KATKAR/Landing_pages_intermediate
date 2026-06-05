@@ -1,6 +1,6 @@
 import "./Hero.css";
 import people from "../../assets/Images/peoples.png";
-import vector from "../../assets/Images/vector.png";
+import vector from "../../assets/Images/Vector.png";
 import ellipse from "../../assets/Images/Ellipse.png";
 import line from "../../assets/Images/Line1.png";
 import line2 from "../../assets/Images/Line2.png";

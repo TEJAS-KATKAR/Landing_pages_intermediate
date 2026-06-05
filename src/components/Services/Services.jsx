@@ -1,5 +1,5 @@
 import "./Services.css";
-import vector from "../../assets/Images/vector.png";
+import vector from "../../assets/Images/Vector.png";
 import design5 from "../../assets/Images/design5.png";
 import design4 from "../../assets/Images/design4.png";
 
