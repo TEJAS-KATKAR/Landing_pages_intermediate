@@ -1,7 +1,7 @@
 import "./About.css";
 import about1 from "../../assets/Images/about1.png";
 import about2 from "../../assets/Images/about2.png";
-import vector from "../../assets/Images/vector.png";
+import vector from "../../assets/Images/Vector.png";
 import design3 from "../../assets/Images/design3.png";
 import design2 from "../../assets/Images/design2.png";
 import design1 from "../../assets/Images/design1.png";
